@@ -1,10 +1,11 @@
 # AI-Powered Coding Assistant for Junior Developers  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/Ai-Coding-Assistant-FYP)
-![GitHub contributors](https://img.shields.io/github/contributors/USERNAME/Ai-Coding-Assistant-FYP)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/Ai-Coding-Assistant-FYP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/Ai-Coding-Assistant-FYP?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abdulbasit219/Ai-Coding-Assistant-FYP)
+![GitHub contributors](https://img.shields.io/github/contributors/Abdulbasit219/Ai-Coding-Assistant-FYP)
+![GitHub stars](https://img.shields.io/github/stars/Abdulbasit219/Ai-Coding-Assistant-FYP?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abdulbasit219/Ai-Coding-Assistant-FYP?style=social)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 An **AI-Powered Coding Assistant** designed for beginner programmers, developed as a Final Year Project (FYP).  
 The system is focused on **learning & understanding** rather than just copy-paste coding, helping students build strong foundations in programming.  
